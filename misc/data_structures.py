@@ -23,7 +23,7 @@ Done in 2007 while preparing for interviews.
 
 
 class Stack:
-    '''Mimick a stack using a list.'''
+    '''Mimic a stack using a list.'''
     def __init__(self):
         self.d_data = []
 
@@ -38,7 +38,7 @@ class Stack:
 
 
 class Queue:
-    '''Mimick a queue using a list.''' 
+    '''Mimic a queue using a list.''' 
     def __init__(self):
         self.d_data = []
 
