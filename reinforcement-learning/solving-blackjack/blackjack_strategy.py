@@ -5,7 +5,7 @@ Experiments with learning the optimal strategy for playing blackjack
 using reinforcement learning.  Starts from examples 5.1 and 5.3 from
 Sutton and Barto
 
-:author: Robert Grant <bgrant@mail.utexas.edu>
+:author: Robert David Grant <robert.david.grant@gmail.com>
 
 :copyright:
     Copyright 2011 Robert Grant

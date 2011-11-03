@@ -4,7 +4,7 @@
 Functions for experimenting with reinforcement learning in n-armed
 bandits.
 
-:author: Robert Grant <bgrant@mail.utexas.edu>
+:author: Robert David Grant <robert.david.grant@gmail.com>
 
 :copyright: Copyright 2011 Robert Grant
 

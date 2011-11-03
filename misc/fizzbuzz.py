@@ -5,7 +5,7 @@ Implementation of `fizzbuzz`, just to make sure I can :)
 :author: Robert David Grant <robert.david.grant@gmail.com>
 
 :copyright:
-    Copyright 2011 Robert Grant
+    Copyright 2011 Robert David Grant
 
     Licensed under the Apache License, Version 2.0 (the "License"); you
     may not use this file except in compliance with the License.  You

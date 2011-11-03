@@ -4,8 +4,11 @@
 Using reinforcement learning to switch routing algorithms based on
 context in a MANET.
 
+:author: Robert David Grant <robert.david.grant@gmail.com>
+:author: Agoston Petz
+
 :copyright:
-    Copyright 2011 Robert Grant and Agoston Petz
+    Copyright 2011 Robert David Grant and Agoston Petz
 
     Licensed under the Apache License, Version 2.0 (the "License"); you
     may not use this file except in compliance with the License.  You

@@ -15,6 +15,23 @@ function sorted_matrix = hw8Test(unsorted_matrix, sorting_net)
 % swap pairs are all applied in order, and the elements are only swapped if
 % the second is greater than the first.
 
+% :author: Robert David Grant <robert.david.grant@gmail.com>
+%
+% :copyright:
+%    Copyright 2011 Robert David Grant
+%
+%    Licensed under the Apache License, Version 2.0 (the "License"); you
+%    may not use this file except in compliance with the License.  You
+%    may obtain a copy of the License at
+%
+%       http://www.apache.org/licenses/LICENSE-2.0
+%
+%    Unless required by applicable law or agreed to in writing, software
+%    distributed under the License is distributed on an "AS IS" BASIS,
+%    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+%    implied.  See the License for the specific language governing
+%    permissions and limitations under the License.
+
 [nrows, ncols] = size(sorting_net);
 assert(ncols == 2);
 
