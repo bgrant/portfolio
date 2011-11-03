@@ -23,7 +23,6 @@ Done in 2007 while preparing for interviews.
 
 import random
 
-# Mergesort
 def mergesort(lst):
     if len(lst) <= 1:
         return lst
@@ -47,7 +46,6 @@ def merge(left, right):
         merged.extend(right[rpos:])
     return merged
 
-# Quicksort
 def quicksort(lst):
     if len(lst) <= 1:
         return lst
@@ -62,7 +60,6 @@ def quicksort(lst):
             greater.append(x)
     return quicksort(less) + [lst[ppos]] + quicksort(greater)
 
-# Bubblesort
 def bubblesort(lst):
     sorted = False
     while sorted is False:
