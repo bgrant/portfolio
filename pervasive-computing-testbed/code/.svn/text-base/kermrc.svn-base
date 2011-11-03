@@ -1,0 +1,12 @@
+set line /dev/ttyUSB0
+set flow-control none
+set carrier-watch off
+set speed 115200
+set reliable
+fast
+set prefixing all
+set file type bin
+set rec pack 4096
+set send pack 4096
+set window 5
+set handshake none

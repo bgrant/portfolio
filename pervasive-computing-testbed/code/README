@@ -1,0 +1,20 @@
+Files in this directory, all created by Robert Grant:
+
+S80player -- A linux init script to go on the gumstix that starts the player
+server with the roomba.cfg file on system startup (assuming roomba.cfg is put
+in /root).
+
+irobot-create.py -- A python player client for the iRobot Create.  Provides a
+Node class for controlling the create and a do_random_direction() function that
+uses this Node class to have the Create enact a random direction mobility
+model.
+
+roomba.cfg -- This is a configuration file for using the player server with the
+iRobot Create, a slightly modified version of one from the University of
+Alabama Robotics site.
+
+interfaces -- The linux network configuration file I used to have the Create
+join my wireless network on startup..
+
+kermrc -- My kermit configuration file. Rename this to .kermrc and put it in
+your home directory.
